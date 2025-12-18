@@ -20,7 +20,7 @@ public class determinarTarifa {
 		}
 	
 		if(c.getEdad()>=18 || c.getEdad()<=25) {
-			if(c.getTipViajero().contains("Trabajador") && c.getPrefClase().equals("Turista") && c.getFreqViajes()>=3) {
+			if(c.getPrefClase().equals("Turista") && c.getFreqViajes()>=3) {
 				if(c.getTipViajero().contains("Vive con padres")) {
 					tipoTarifa = "Viaja ahora que puedes";
 					descuento = 0.05;
