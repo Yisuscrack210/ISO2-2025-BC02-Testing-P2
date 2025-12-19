@@ -10,10 +10,10 @@ Grupo de trabajo: BC02
 | :-------: | :--------: |
 | Jesús Márquez Duque | Diseño de casos de prueba |
 | Carlos Salgado Rojas | Diseño de casos de prueba |
-| Ismael Serrano Usero | Implementación del problema |
-| Ainhoa Sánchez Esteban | Implementación del problema |
-| Manuel Porrero Sierra | Implementación de las pruebas |
-| David Ruiz Sánchez | Implementación de las pruebas |
+| Ismael Serrano Usero | Implementación del pseudocódigo |
+| Ainhoa Sánchez Esteban | Implementación del pseudocódigo |
+| Manuel Porrero Sierra | Implementación de las pruebas de cobertura |
+| David Ruiz Sánchez | Implementación de las pruebas de cobertura |
 
 ***
 
